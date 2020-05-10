@@ -1,4 +1,4 @@
-#Team 1: Samantha Davis, Anya Romines, Tianle Lila Zeng
+#Team 1
 
 #globals
 gradebook = {}  # a global dictionary.  Key:name  value:scores.
